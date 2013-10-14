@@ -1,0 +1,57 @@
+/*-----------GENERAL---------------*/
+html {padding:0px; margin:0px;}
+body {padding:0px; margin:0px; font-family: Georgia, serif;background: url(../images/bg.gif); color:#212121;}
+.clearBoth {clear: both; height:0px; line-height:0px; font-size:0px; padding:0px; margin:0px;}
+#container {margin: 0px auto; width: 960px;  background: url(../images/content-bg.jpg);}
+#header {background: url(../images/header-bg.jpg) no-repeat; height:453px; position:relative;}
+#header h1.fontface {margin-bottom:10px;font: 48px/55px 'ChunkFiveRegular', Arial, sans-serif;letter-spacing: 0; padding:230px 0 0 25px; color:#fff; width:400px; margin-top:0px;}
+#header p {font-size:18px; line-height:24px; padding:0 0 0 25px; color:#fff; width:380px; margin:0px;}
+#header .button {width:215px; height:40px; padding-top:13px; border:2px solid #74130e; position:absolute; top:370px; left:715px; background: url(../images/button.jpg) repeat-x; text-align:center; font: 18px/25px 'ChunkFiveRegular', Arial, sans-serif;letter-spacing: 0; color:#fff; font-size:24px;}
+#header .button:hover {background: url(../images/button-over.jpg) repeat-x; }
+#header .button a {text-decoration:none; color:#fff;}
+#content_and_nav {}
+#content_and_nav address {float:right;}
+#content_and_nav #pubMap {float:left;}
+#content {float:right; width:680px; padding:25px;}
+#content #text {width:400px; float:left; margin-right:30px; display:inline; margin-top:-4px;}
+#content p {margin-top:10px; line-height:24px;}
+#content p.intro {font-size:18px; line-height:24px; margin-top:0px; margin-bottom:0px;}
+#content img {float:right;}
+#content h2 {margin:0px; padding:0px; font: 18px/28px 'ChunkFiveRegular', Arial, sans-serif;letter-spacing: 0; }
+#content .wine {padding:0px; margin:0px 0px 0px 15px; margin-bottom:20px;}
+#content .wine li {line-height:24px;}
+#content .pic {margin-bottom:10px;}
+#content .small {font-size:11px;color:#fff;}
+
+/*MENU*/
+#menu {width:225px; margin-top:5px; float:left; font: 18px/25px 'ChunkFiveRegular', Arial, sans-serif;letter-spacing: 0; text-transform:uppercase;}
+#menu ul {padding:0px; margin:20px 0 25px 25px; border-top:1px solid #8f8374;}
+#menu li {list-style-type:none; padding:0px; margin:0px; line-height:36px; border-bottom:1px solid #8f8374;}
+#menu li:hover {background-color:#9c8c78; }
+#menu li a {color:#212121; text-decoration:none; padding-left:10px;}
+#menu li.on {background-color:#212121;}
+#menu li.on a {color:#c37c38;}
+
+/*FOOTER*/
+#footer {background-color:#9c8c78; padding:25px;}
+#footer address {float:left; font-style:normal; line-height:22px; font-size:12px;}
+#footer address strong {font-size:14px;}
+#footer ul {float:right; margin:0px; padding:0 0 0 15px; width:360px; height:64px; background: url(../images/icons.gif);}
+#footer ul li {list-style-type:none; text-indent:-9999px; overflow:hidden; float:left; width:40px;  height:35px; margin-top:15px;}
+
+/*CONTACT*/
+#contactus ul#contact {padding:0px; margin:0px;}
+#contactus ul#contact li {list-style-type:none;}
+#contactus fieldset {padding:0px; margin:0px; border:none;}
+#contactus fieldset label {width:200px; display:block; margin-bottom:5px;}
+#contactus fieldset input {width:350px; margin-bottom:10px;}
+#contactus fieldset textarea {width:352px; margin-bottom:10px;}
+
+.menu-options {font-size: 9pt;}
+.menu-options .option-spaced {width:320px;}
+.menu-options .option-spaced-large {width:580px;}
+.menu-options .option-spaced-small {width:80px;}
+.prime-time {color:red;}
+
+
+
